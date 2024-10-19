@@ -1,0 +1,1 @@
+* sql code to get employee salary*
